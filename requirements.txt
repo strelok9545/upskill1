@@ -1,0 +1,12 @@
+Django>=4.2
+
+psycopg2-binary
+python-dotenv
+
+django-allauth
+
+requests
+requests-oauthlib
+PyJWT
+cryptography
+Pillow
